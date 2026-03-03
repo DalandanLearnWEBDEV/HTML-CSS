@@ -1,1 +1,3 @@
 HTML is the content of the website
+CSS for styling of the website
+JavaScript allows your website to solve the problem
