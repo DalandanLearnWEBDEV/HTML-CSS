@@ -1,0 +1,19 @@
+.main {
+    margin-top: 100px;
+}
+
+
+.googleimg {
+    width: 300px;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.txtbox {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
